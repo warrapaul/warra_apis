@@ -1,16 +1,9 @@
-[
-  {
-    "index": 0,
-    "date": "2017-06-15T04",
-    "businessName": "EXOVENT",
-    "picture": "assets/images/clients/32x32",
-    "amount": 695
-  },
-  {
-    "index": 1,
-    "date": "2018-05-15T03",
-    "businessName": "STROZEN",
-    "picture": "assets/images/clients/32x32",
-    "amount": 927
-  }
-]
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
