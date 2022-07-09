@@ -12,33 +12,5 @@
     "businessName": "STROZEN",
     "picture": "assets/images/clients/32x32",
     "amount": 927
-  },
-  {
-    "index": 2,
-    "date": "2019-01-19T01",
-    "businessName": "BITTOR",
-    "picture": "assets/images/clients/32x32",
-    "amount": 52
-  },
-  {
-    "index": 3,
-    "date": "2015-10-23T11",
-    "businessName": "BITENDREX",
-    "picture": "assets/images/clients/32x32",
-    "amount": 198
-  },
-  {
-    "index": 4,
-    "date": "2018-02-16T03",
-    "businessName": "LOTRON",
-    "picture": "assets/images/clients/32x32",
-    "amount": 329
-  },
-  {
-    "index": 5,
-    "date": "2020-03-17T07",
-    "businessName": "GENEKOM",
-    "picture": "assets/images/clients/32x32",
-    "amount": 745
   }
 ]
