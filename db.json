@@ -42,5 +42,51 @@
     "picture": "assets/images/clients/img2.jpg",
     "amount": 977
   }
+],
+  
+  
+ "users":[
+  {
+    "index": 14,
+    "location": "zmm",
+    "businessName": "PLASMOS",
+    "picture": "assets/images/clients/img3.jpg"
+  },
+  {
+    "index": 15,
+    "location": "g44",
+    "businessName": "KIGGLE",
+    "picture": "assets/images/clients/img5.jpg"
+  },
+    {
+    "index": 16,
+    "location": "g45",
+    "businessName": "ENTALITY",
+    "picture": "assets/images/clients/img2.jpg"
+  },
+  {
+    "index": 17,
+    "location": "zmm",
+    "businessName": "ECLIPSENT",
+    "picture": "assets/images/clients/img5.jpg"
+  },
+    {
+    "index": 18,
+    "location": "g44",
+    "businessName": "ZENSUS",
+    "picture": "assets/images/clients/img3.jpg"
+  },
+  {
+    "index": 19,
+    "location": "g44",
+    "businessName": "NAMEGEN",
+    "picture": "assets/images/clients/img2.jpg"
+  }
 ]
+  
+  
+  
+  
+  
+  
 }
