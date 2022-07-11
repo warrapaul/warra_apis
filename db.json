@@ -2,42 +2,42 @@
   "transactions":[
   {
     "index": 14,
-    "date": "2018-03-12T08",
+    "date": "2018-03-12",
     "businessName": "PLASMOS",
     "picture": "assets/images/clients/img3.jpg",
     "amount": 308
   },
   {
     "index": 15,
-    "date": "2018-11-11T05",
+    "date": "2018-11-11",
     "businessName": "KIGGLE",
     "picture": "assets/images/clients/img5.jpg",
     "amount": 430
   },
     {
     "index": 16,
-    "date": "2019-12-27T11",
+    "date": "2018-03-12",
     "businessName": "ENTALITY",
     "picture": "assets/images/clients/img2.jpg",
     "amount": 591
   },
   {
     "index": 17,
-    "date": "2021-06-25T09",
+    "date": "2018-03-12",
     "businessName": "ECLIPSENT",
     "picture": "assets/images/clients/img5.jpg",
     "amount": 940
   },
     {
     "index": 18,
-    "date": "2015-07-29T09",
+    "date": "2018-03-12",
     "businessName": "ZENSUS",
     "picture": "assets/images/clients/img3.jpg",
     "amount": 929
   },
   {
     "index": 19,
-    "date": "2014-08-10T07",
+    "date": "2018-11-11",
     "businessName": "NAMEGEN",
     "picture": "assets/images/clients/img2.jpg",
     "amount": 977
