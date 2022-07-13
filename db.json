@@ -50,37 +50,149 @@
     "index": 14,
     "location": "zmm",
     "businessName": "PLASMOS",
-    "picture": "assets/images/clients/img3.jpg"
+    "picture": "assets/images/clients/img3.jpg",
+    "tags": [
+      "eiusmod",
+      "sit",
+      "est"
+    ],
+    "favourites": [
+      {
+        "bname": 0,
+        "location": "Epworth"
+      },
+      {
+        "bname": 1,
+        "location": "Fannett"
+      },
+      {
+        "bname": 2,
+        "location": "Steinhatchee"
+      }
+    ]
   },
   {
     "index": 15,
     "location": "g44",
     "businessName": "KIGGLE",
-    "picture": "assets/images/clients/img5.jpg"
+    "picture": "assets/images/clients/img5.jpg","tags": [
+      "irure",
+      "velit",
+      "anim"
+    ],
+    "favourites": [
+      {
+        "bname": 0,
+        "location": "Vale"
+      },
+      {
+        "bname": 1,
+        "location": "Barronett"
+      },
+      {
+        "bname": 2,
+        "location": "Vienna"
+      }
+    ]
   },
     {
     "index": 16,
     "location": "g45",
     "businessName": "ENTALITY",
-    "picture": "assets/images/clients/img2.jpg"
+    "picture": "assets/images/clients/img2.jpg",
+      "tags": [
+      "dolor",
+      "est",
+      "adipisicing"
+    ],
+    "favourites": [
+      {
+        "bname": 0,
+        "location": "Hemlock"
+      },
+      {
+        "bname": 1,
+        "location": "Bellamy"
+      },
+      {
+        "bname": 2,
+        "location": "Cumberland"
+      }
+    ]
   },
   {
     "index": 17,
     "location": "zmm",
     "businessName": "ECLIPSENT",
-    "picture": "assets/images/clients/img5.jpg"
+    "picture": "assets/images/clients/img5.jpg",
+    "tags": [
+      "esse",
+      "sit",
+      "eu"
+    ],
+    "favourites": [
+      {
+        "bname": 0,
+        "location": "Bagtown"
+      },
+      {
+        "bname": 1,
+        "location": "Islandia"
+      },
+      {
+        "bname": 2,
+        "location": "Machias"
+      }
+    ]
   },
     {
     "index": 18,
     "location": "g44",
     "businessName": "ZENSUS",
-    "picture": "assets/images/clients/img3.jpg"
+    "picture": "assets/images/clients/img3.jpg",
+      "tags": [
+      "aliquip",
+      "commodo",
+      "officia"
+    ],
+    "favourites": [
+      {
+        "bname": 0,
+        "location": "Brogan"
+      },
+      {
+        "bname": 1,
+        "location": "Jugtown"
+      },
+      {
+        "bname": 2,
+        "location": "Golconda"
+      }
+    ]
   },
   {
     "index": 19,
     "location": "g44",
     "businessName": "NAMEGEN",
-    "picture": "assets/images/clients/img2.jpg"
+    "picture": "assets/images/clients/img2.jpg","tags": [
+      "mollit",
+      "sunt",
+      "dolor"
+    ],
+    "favourites": [
+      {
+        "bname": 0,
+        "location": "Vowinckel"
+      },
+      {
+        "bname": 1,
+        "location": "Needmore"
+      },
+      {
+        "bname": 2,
+        "location": "Salunga"
+      }
+    ]
   }
 ]
   
