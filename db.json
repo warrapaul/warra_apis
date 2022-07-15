@@ -2,67 +2,100 @@
   "transactions2":[
   {
     "index": 0,
-    "sender": "Selena Green",
-    "recipient": "Goldie Carlson",
+    "sender": "Cassandra Bauer",
+    "recipient": "Nichols Mcdonald",
     "amount": "<ReferenceError: double is not defined>",
     "picture": "assets/images/clients/img3.jpg",
-    "date": "2014-12-26T08:51:10 -03:00",
+    "date": "2014-12-31T03:16:50 -03:00",
+    "status": "sent",
     "tags": [
-      "nisi",
-      "fugiat",
-      "sit"
+      "do",
+      "cupidatat",
+      "laboris"
     ]
   },
   {
     "index": 1,
-    "sender": "Kirsten Parks",
-    "recipient": "Rios Harris",
+    "sender": "Patterson Nguyen",
+    "recipient": "Sheena Tate",
     "amount": "<ReferenceError: double is not defined>",
     "picture": "assets/images/clients/img3.jpg",
-    "date": "2017-01-10T11:18:49 -03:00",
+    "date": "2020-12-09T11:31:17 -03:00",
+    "status": "pending",
     "tags": [
+      "minim",
       "fugiat",
-      "excepteur",
-      "cillum"
+      "pariatur"
     ]
   },
   {
     "index": 2,
-    "sender": "Rena Hopkins",
-    "recipient": "Bradley Finley",
+    "sender": "Gabriela Eaton",
+    "recipient": "Munoz Mclaughlin",
     "amount": "<ReferenceError: double is not defined>",
     "picture": "assets/images/clients/img3.jpg",
-    "date": "2016-04-19T04:37:35 -03:00",
+    "date": "2020-11-13T11:38:58 -03:00",
+    "status": "sent",
     "tags": [
-      "ipsum",
-      "sit",
-      "tempor"
+      "anim",
+      "nulla",
+      "esse"
     ]
   },
   {
     "index": 3,
-    "sender": "Della Frazier",
-    "recipient": "Christie Weeks",
+    "sender": "Snider Patton",
+    "recipient": "Elma Higgins",
     "amount": "<ReferenceError: double is not defined>",
     "picture": "assets/images/clients/img3.jpg",
-    "date": "2016-02-06T09:12:03 -03:00",
+    "date": "2021-05-23T08:40:36 -03:00",
+    "status": "pending",
     "tags": [
-      "nisi",
-      "nulla",
-      "ad"
+      "enim",
+      "in",
+      "cupidatat"
     ]
   },
   {
     "index": 4,
-    "sender": "Hines Bryant",
-    "recipient": "Juanita Gentry",
+    "sender": "Joyce Bradley",
+    "recipient": "Hayes Mitchell",
     "amount": "<ReferenceError: double is not defined>",
     "picture": "assets/images/clients/img3.jpg",
-    "date": "2020-04-14T01:37:24 -03:00",
+    "date": "2015-07-08T12:45:51 -03:00",
+    "status": "complete",
     "tags": [
-      "minim",
-      "aute",
-      "laboris"
+      "aliquip",
+      "do",
+      "Lorem"
+    ]
+  },
+  {
+    "index": 5,
+    "sender": "Lizzie James",
+    "recipient": "Maldonado Mcpherson",
+    "amount": "<ReferenceError: double is not defined>",
+    "picture": "assets/images/clients/img3.jpg",
+    "date": "2015-07-04T08:02:53 -03:00",
+    "status": "complete",
+    "tags": [
+      "irure",
+      "nisi",
+      "ad"
+    ]
+  },
+  {
+    "index": 6,
+    "sender": "Angel Schultz",
+    "recipient": "Carly Gonzalez",
+    "amount": "<ReferenceError: double is not defined>",
+    "picture": "assets/images/clients/img3.jpg",
+    "date": "2020-06-23T10:36:13 -03:00",
+    "status": "sent",
+    "tags": [
+      "reprehenderit",
+      "aliquip",
+      "sit"
     ]
   }
 ],
